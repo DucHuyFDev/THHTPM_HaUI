@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ThucHanh1"
+    targetNamespace="http://tempuri.org/ThucHanh1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ThucHanh1.xsd"
+    xmlns:mstns="http://tempuri.org/ThucHanh1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Định nghĩa các ràng buộc cho các kiểu dữ liệu tự định nghĩa-->
+	<xs:simpleType name ="htType">
+		<xs:restriction base ="xs:string">
+			<xs:maxLength value ="50"></xs:maxLength>
+			<xs:minLength value ="0"></xs:minLength>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name ="trinhdo">
+		<xs:restriction base ="xs:string">
+			<xs:enumeration value ="Đại học"></xs:enumeration>
+			<xs:enumeration value ="Cao đẳng"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name ="gioitinh">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value ="Nam"></xs:enumeration>
+			<xs:enumeration value ="Nữ"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ngaysinh" >
+		<xs:restriction base ="xs:date">
+			<xs:minExclusive value ="1995-01-01"></xs:minExclusive>
+			<xs:maxExclusive value ="1998-12-31"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name ="heso">
+		<xs:restriction base="xs:decimal">
+			<xs:fractionDigits value ="2"></xs:fractionDigits> 
+			<!--2 chữ số sau phần thập phân-->
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name ="maType">
+		<xs:restriction base ="xs:string">
+			<xs:pattern value ="[a-zA-Z0-9]{10}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Định nghĩa kiểu dữ liệu cho 1 sinh viên -->
+	<xs:complexType name ="svType">
+		<xs:sequence>
+			<xs:element name ="HoTen" type="htType"></xs:element>
+			<xs:element name ="NgaySinh" type="ngaysinh"></xs:element>
+			<xs:element name ="GioiTinh" type="gioitinh"></xs:element>
+			<xs:element name ="Que" type="htType"></xs:element>
+			<xs:element name ="TrinhDo" type="trinhdo"></xs:element>
+			<xs:element name ="HeSoDiem" type="heso"></xs:element>
+		</xs:sequence>
+		<xs:attribute name ="masv" type ="maType" use ="required"></xs:attribute>
+	</xs:complexType>
+	
+	<!---->
+	<xs:complexType name ="SinhVienType">
+		<xs:sequence>
+			<xs:element name ="SinhVien" type="svType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name ="QLSV" type="SinhVienType">
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Csharpwf\\ThucHanh2_THHTPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9EFDA7-899B-47A2-B885-065021C56DD7}|ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj|f:\\csharpwf\\thuchanh2_thhtpm\\thuchanh2_thhtpm\\bai2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE9EFDA7-899B-47A2-B885-065021C56DD7}|ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj|solutionrelative:thuchanh2_thhtpm\\bai2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9EFDA7-899B-47A2-B885-065021C56DD7}|ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj|f:\\csharpwf\\thuchanh2_thhtpm\\thuchanh2_thhtpm\\bai2.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE9EFDA7-899B-47A2-B885-065021C56DD7}|ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj|solutionrelative:thuchanh2_thhtpm\\bai2.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai2.xml",
+              "DocumentMoniker": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\bai2.xml",
+              "RelativeDocumentMoniker": "ThucHanh2_THHTPM\\bai2.xml",
+              "ToolTip": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\bai2.xml",
+              "RelativeToolTip": "ThucHanh2_THHTPM\\bai2.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-30T00:29:42.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.xsd",
+              "DocumentMoniker": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\Bai2.xsd",
+              "RelativeDocumentMoniker": "ThucHanh2_THHTPM\\Bai2.xsd",
+              "ToolTip": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\Bai2.xsd",
+              "RelativeToolTip": "ThucHanh2_THHTPM\\Bai2.xsd",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-29T02:39:44.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

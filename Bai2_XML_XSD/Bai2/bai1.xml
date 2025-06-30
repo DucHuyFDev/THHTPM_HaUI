@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLNV xmlns="http://tempuri.org/Bai1.xsd">
+	<NhanVien MaNV ="NV01">
+		<HoTen>Nguyễn Anh Tuấn</HoTen>
+		<NTNS>2005-11-02</NTNS>
+		<GioiTinh>Nam</GioiTinh>
+		<QueQuan>Hà Nội</QueQuan>
+		<SDT>032165498</SDT>
+		<TrinhDo>Đại học</TrinhDo>
+		<HeSoDiem>2.7</HeSoDiem>
+	</NhanVien>
+	<NhanVien MaNV ="NV01">
+		<HoTen>Nguyễn Anh Tuấn</HoTen>
+		<NTNS>2005-11-02</NTNS>
+		<GioiTinh>Nam</GioiTinh>
+		<QueQuan>Hà Nội</QueQuan>
+		<SDT>032165498</SDT>
+		<TrinhDo>Đại học</TrinhDo>
+		<HeSoDiem>2.7</HeSoDiem>
+	</NhanVien>
+</QLNV>

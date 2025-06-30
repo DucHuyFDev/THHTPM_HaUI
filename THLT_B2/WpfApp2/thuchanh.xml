@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLSV xmlns="http://tempuri.org/ThucHanh1.xsd">
+	<SinhVien masv ="A123456789">
+		<HoTen>Lê Đức Huy</HoTen>
+		<NgaySinh>1997-08-13</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Hà Nội</Que>
+		<TrinhDo>Đại học</TrinhDo>
+		<HeSoDiem>2.56</HeSoDiem>
+	</SinhVien>
+</QLSV>

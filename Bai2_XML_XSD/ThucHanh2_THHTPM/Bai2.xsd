@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai2"
+    targetNamespace="http://tempuri.org/Bai2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai2.xsd"
+    xmlns:mstns="http://tempuri.org/Bai2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Định nghĩa ràng buộc giá-->
+	<xs:simpleType name="giaType">
+		<xs:restriction base ="xs:double">
+			<xs:minExclusive value="0"></xs:minExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	<!--Định nghĩa ràng buộc đơn vị tính-->
+	<xs:simpleType name="dvtType">
+		<xs:restriction base ="xs:string">
+			<xs:enumeration value="Gói"></xs:enumeration>
+			<xs:enumeration value="Hộp"></xs:enumeration>
+			<xs:enumeration value="Chiếc"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Định nghĩa ràng buộc mã hàng-->
+	<xs:simpleType name="mahangType">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="6"></xs:maxLength>
+		</xs:restriction>
+	</xs:simpleType>
+
+
+	<!--Định nghĩa kiểu hàng-->
+	<xs:complexType name="hangType">
+		<xs:sequence>
+			<xs:element name="TenHang" type="xs:string"></xs:element>
+			<xs:element name="SoLuong" type="xs:integer"></xs:element>
+			<xs:element name="DonViTinh" type="dvtType"></xs:element>
+			<xs:element name="DonGia" type="giaType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaHang" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<!--Khai báo kiểu loại hàng-->
+	<xs:complexType name="loaiHangType">
+		<xs:sequence>
+			<xs:element name="Hang" type="hangType" minOccurs="0" maxOccurs="3"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaLoai" type ="xs:string" use ="required"></xs:attribute>
+		<xs:attribute name="TenLoai" type ="xs:string" use ="required"></xs:attribute>
+	</xs:complexType>
+
+	<!--Khai báo phần tử loại hàng có ràng buộc mã hàng-->
+	<xs:element name="LoaiHang" type="loaiHangType">
+		<xs:unique name="uniqueMaHang">
+			<xs:selector xpath="Hang"></xs:selector>
+			<xs:field xpath="@MaHang"></xs:field>
+		</xs:unique>
+	</xs:element>
+	
+	<!--Khai báo kiểu hóa đơn-->
+	<xs:complexType name="hoadonType">
+		<xs:sequence>
+			<xs:element name="MaHD" type="xs:string"></xs:element>
+			<xs:element name="NgayBan" type="xs:date"></xs:element>
+			<xs:element ref="LoaiHang" minOccurs="0" maxOccurs="10"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!--Khai báo kiểu danh sách-->
+	<xs:complexType name="dsType">
+		<xs:sequence>
+			<xs:element name="HoaDon" type="hoadonType" minOccurs="0" maxOccurs="4"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!--Khai báo phần tử root có kiểu ds-->
+	<xs:element name="DS" type="dsType"></xs:element>
+
+
+</xs:schema>
