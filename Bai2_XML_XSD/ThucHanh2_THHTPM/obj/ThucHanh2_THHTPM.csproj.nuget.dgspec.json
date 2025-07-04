@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj": {}
+    "F:\\THHTPM_HaUI\\Bai2_XML_XSD\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj": {}
   },
   "projects": {
-    "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj": {
+    "F:\\THHTPM_HaUI\\Bai2_XML_XSD\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj",
+        "projectUniqueName": "F:\\THHTPM_HaUI\\Bai2_XML_XSD\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj",
         "projectName": "ThucHanh2_THHTPM",
-        "projectPath": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj",
+        "projectPath": "F:\\THHTPM_HaUI\\Bai2_XML_XSD\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\Csharpwf\\ThucHanh2_THHTPM\\ThucHanh2_THHTPM\\obj\\",
+        "outputPath": "F:\\THHTPM_HaUI\\Bai2_XML_XSD\\ThucHanh2_THHTPM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

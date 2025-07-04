@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="QLBV.xslt"?>
+<Khoa xmlns="http://tempuri.org/QLBV.xsd">
+	<TenKhoa>Ngoại</TenKhoa>
+	<HoTenTKhoa>Lê Đức Huy</HoTenTKhoa>
+	<DSBN>
+		<BenhNhan MaBN="BN01">
+			<HoTen>Đỗ Anh Vũ</HoTen>
+			<DiaChi>Hà Nội</DiaChi>
+			<SoDT>0369852147</SoDT>
+			<NgayNV>2025-06-15</NgayNV>
+			<SoNgayNV>8</SoNgayNV>
+		</BenhNhan>
+		<BenhNhan MaBN="BN02">
+			<HoTen>Đỗ Anh Quân</HoTen>
+			<DiaChi>Hà Nội</DiaChi>
+			<SoDT>0369852147</SoDT>
+			<NgayNV>2025-06-14</NgayNV>
+			<SoNgayNV>9</SoNgayNV>
+		</BenhNhan>
+		<BenhNhan MaBN="BN03">
+			<HoTen>Đỗ Anh Hoài</HoTen>
+			<DiaChi>Hà Nam</DiaChi>
+			<SoDT>0369852147</SoDT>
+			<NgayNV>2025-06-05</NgayNV>
+			<SoNgayNV>1</SoNgayNV>
+		</BenhNhan>
+	</DSBN>
+</Khoa>

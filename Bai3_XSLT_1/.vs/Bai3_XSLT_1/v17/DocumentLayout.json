@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai3_XSLT_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D157C8A7-2704-40B4-886A-8A02FF393AF8}|Bai3_XSLT_1\\Bai3_XSLT_1.csproj|F:\\THHTPM_HaUI\\Bai3_XSLT_1\\bai3_xslt_1\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D157C8A7-2704-40B4-886A-8A02FF393AF8}|Bai3_XSLT_1\\Bai3_XSLT_1.csproj|solutionrelative:bai3_xslt_1\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157C8A7-2704-40B4-886A-8A02FF393AF8}|Bai3_XSLT_1\\Bai3_XSLT_1.csproj|f:\\thhtpm_haui\\bai3_xslt_1\\bai3_xslt_1\\xsltfile1.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D157C8A7-2704-40B4-886A-8A02FF393AF8}|Bai3_XSLT_1\\Bai3_XSLT_1.csproj|solutionrelative:bai3_xslt_1\\xsltfile1.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai3_XSLT_1\\Bai3_XSLT_1\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Bai3_XSLT_1\\XMLFile1.xml",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai3_XSLT_1\\Bai3_XSLT_1\\XMLFile1.xml",
+              "RelativeToolTip": "Bai3_XSLT_1\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-03T01:00:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XSLTFile1.xslt",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai3_XSLT_1\\Bai3_XSLT_1\\XSLTFile1.xslt",
+              "RelativeDocumentMoniker": "Bai3_XSLT_1\\XSLTFile1.xslt",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai3_XSLT_1\\Bai3_XSLT_1\\XSLTFile1.xslt",
+              "RelativeToolTip": "Bai3_XSLT_1\\XSLTFile1.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-07-03T01:03:43.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

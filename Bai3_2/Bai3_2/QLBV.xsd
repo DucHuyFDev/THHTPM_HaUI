@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLBV"
+    targetNamespace="http://tempuri.org/QLBV.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/QLBV.xsd"
+    xmlns:mstns="http://tempuri.org/QLBV.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="htdcType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value ="1"></xs:minLength>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name ="sdtType">
+		<xs:restriction base ="xs:string">
+			<xs:pattern value="0\d{9}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="songnhapvienType">
+		<xs:restriction base ="xs:integer">
+			<xs:minExclusive value ="0"></xs:minExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="mabnType">
+		<xs:restriction base ="xs:string">
+			<xs:pattern value="BN\d{2}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="benhnhanType">
+		<xs:sequence>
+			<xs:element name="HoTen" type="htdcType"></xs:element>
+			<xs:element name="DiaChi" type="htdcType"></xs:element>
+			<xs:element name="SoDT" type="sdtType"></xs:element>
+			<xs:element name="NgayNV" type="xs:date"></xs:element>
+			<xs:element name="SoNgayNV" type="songnhapvienType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaBN" type="mabnType"></xs:attribute>
+	</xs:complexType>
+
+	
+
+	<xs:element name="DSBN">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="BenhNhan" type="benhnhanType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:unique name="uniqueMaBN">
+			<xs:selector xpath="BenhNhan"></xs:selector>
+			<xs:field xpath="@MaBN"></xs:field>
+		</xs:unique>
+	</xs:element>
+
+	<xs:complexType name="khoaType">
+		<xs:sequence>
+			<xs:element name="TenKhoa" type="htdcType"></xs:element>
+			<xs:element name="HoTenTKhoa" type="htdcType"></xs:element>
+			<xs:element ref="DSBN"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	
+	<xs:element name="Khoa" type="khoaType"></xs:element>
+</xs:schema>
