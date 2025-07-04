@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai4_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE65CB-818A-48AA-883E-EB90DD85CBFA}|Bai4_3\\Bai4_3.csproj|f:\\thhtpm_haui\\bai4_3\\bai4_3\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9ECE65CB-818A-48AA-883E-EB90DD85CBFA}|Bai4_3\\Bai4_3.csproj|solutionrelative:bai4_3\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE65CB-818A-48AA-883E-EB90DD85CBFA}|Bai4_3\\Bai4_3.csproj|f:\\thhtpm_haui\\bai4_3\\bai4_3\\kqht.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9ECE65CB-818A-48AA-883E-EB90DD85CBFA}|Bai4_3\\Bai4_3.csproj|solutionrelative:bai4_3\\kqht.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai4_3\\Bai4_3\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Bai4_3\\XMLFile1.xml",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai4_3\\Bai4_3\\XMLFile1.xml",
+              "RelativeToolTip": "Bai4_3\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-04T14:25:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kqht.xsd",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai4_3\\Bai4_3\\kqht.xsd",
+              "RelativeDocumentMoniker": "Bai4_3\\kqht.xsd",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai4_3\\Bai4_3\\kqht.xsd",
+              "RelativeToolTip": "Bai4_3\\kqht.xsd",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwEgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-07-04T13:40:58.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

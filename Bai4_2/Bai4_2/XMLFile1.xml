@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/XMLSchema1.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2025-01-03</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti vi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ lạnh </TenHang>
+				<SoLuong>80</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Điều hòa</TenHang>
+				<SoLuong>80</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>9000000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="B" TenLoai="Đồ ăn">
+			<Hang MaHang="H4">
+				<TenHang>Cơm</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H5">
+				<TenHang>Tủ lạnh </TenHang>
+				<SoLuong>80</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

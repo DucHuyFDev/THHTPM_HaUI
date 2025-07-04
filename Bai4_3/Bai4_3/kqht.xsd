@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="kqht"
+    targetNamespace="http://tempuri.org/kqht.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/kqht.xsd"
+    xmlns:mstns="http://tempuri.org/kqht.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Định kiểu dữ liệu cho mã sinh viên-->
+	<xs:simpleType name="masvType">
+		<xs:restriction base="xs:string">
+			<xs:length value="8"></xs:length>
+			<xs:pattern value="[0-9]{8}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Định kiểu dữ liệu cho GVCN-->
+	<xs:simpleType name="gvcnType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Trần Mai Linh"></xs:enumeration>
+			<xs:enumeration value="Đặng Thị Nhung"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Định kiểu dữ liệu cho điểm-->
+	<xs:simpleType name="diemType">
+		<xs:restriction base="xs:float">
+			<xs:minInclusive value="0"></xs:minInclusive>
+			<xs:maxInclusive value="10"></xs:maxInclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--định kiểu xếp loại học lực-->
+	<xs:simpleType name="hoclucType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Trung bình"></xs:enumeration>
+			<xs:enumeration value="Khá"></xs:enumeration>
+			<xs:enumeration value="Giỏi"></xs:enumeration>
+			<xs:enumeration value="Yếu"></xs:enumeration>
+		</xs:restriction> 
+	</xs:simpleType>
+	
+	<!-- Định kiểu ngày sinh -->
+	<xs:simpleType name="ngaysinhType">
+		<xs:restriction base="xs:date">
+			<xs:maxExclusive value="2006-12-31"/>
+			<xs:minExclusive value="2003-01-01"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Định kiểu môn học-->
+	<xs:complexType name="monHocType">
+		<xs:sequence>
+			<xs:element name="Lan1" type="diemType"></xs:element>
+			<xs:element name="Lan2" type="diemType"></xs:element>
+			<xs:element name="CaNam" type="diemType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="TenMon" type="xs:string"></xs:attribute>
+	</xs:complexType>
+	
+	<!--Định kiểu danh sách môn học-->
+	<xs:complexType name="dsmonhocType">
+		<xs:sequence>
+			<xs:element name="MonHoc" type="monHocType" minOccurs ="3" maxOccurs="7"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<!--Định element sinh viên-->
+	<xs:complexType name="sinhvienType">
+		<xs:sequence>
+			<xs:element name="HoTen" type="xs:string"></xs:element>
+			<xs:element name="NgaySinh" type="ngaysinhType"></xs:element>
+			<xs:element name="Lop" type="xs:string"></xs:element>
+			<xs:element name="DanhSach" type="dsmonhocType"></xs:element>
+			<xs:element name="XepLoai" type="hoclucType"></xs:element>
+			<xs:element name="HanhKiem" type="hoclucType"></xs:element>
+			<xs:element name="GVCN" type="gvcnType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaSV" type="masvType" use="required"></xs:attribute>
+	</xs:complexType>
+
+	
+	<xs:element name="KQHT">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="SinhVien" type="sinhvienType" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:unique name="uniquemaSV">
+			<xs:selector xpath="SinhVien"></xs:selector>
+			<xs:field xpath="@MaSV"></xs:field>
+		</xs:unique>
+	</xs:element>
+</xs:schema>
+
+	

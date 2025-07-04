@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Company xmlns="http://tempuri.org/company.xsd">
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+	<Employee ID="E01" Gender="Male">
+		<Name>Lê Đức Huy</Name>
+		<UserID>NV123456</UserID>
+		<Phone>012-315-6789</Phone>
+		<Salary>1250</Salary>
+		<Address>Hà Nội</Address>
+	</Employee>
+</Company>

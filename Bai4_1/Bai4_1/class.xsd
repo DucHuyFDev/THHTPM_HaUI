@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="class"
+    targetNamespace="http://tempuri.org/class.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/class.xsd"
+    xmlns:mstns="http://tempuri.org/class.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="sidType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="S\d{3}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="nameType">
+		<xs:restriction base ="xs:string">
+			<xs:pattern value ="[A-Z][a-zA-Z\s]+"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="dobType">
+		<xs:restriction base="xs:date">
+			<xs:maxExclusive value="2006-12-31"></xs:maxExclusive>
+			<xs:minExclusive value="2003-01-01"></xs:minExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="markType">
+		<xs:restriction base="xs:double">
+			<xs:minExclusive value="1"></xs:minExclusive>
+			<xs:maxExclusive value ="10"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="studentType">
+		<xs:sequence>
+			<xs:element name="Sid" type="sidType"></xs:element>
+			<xs:element name="Name" type="nameType"></xs:element>
+			<xs:element name="Dob" type="dobType"></xs:element>
+			<xs:element name="Mark" type="markType"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<!-- Định nghĩa class - yêu cầu đôi 1 khác nhau về mã sinh viên-->
+	<xs:element name="Class">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Student" type="studentType" minOccurs="1" maxOccurs="10"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:unique name="uniqueSid">
+			<xs:selector xpath="Student"></xs:selector>
+			<xs:field xpath="Sid"></xs:field>
+		</xs:unique>
+	</xs:element>
+
+</xs:schema>

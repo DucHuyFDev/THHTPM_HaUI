@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KQHT xmlns="http://tempuri.org/kqht.xsd">
+	<SinhVien MaSV="00000001">
+		<HoTen>Nguyễn Việt Đức</HoTen>
+		<NgaySinh>2005-03-05</NgaySinh>
+		<Lop>KTPM5 - K9</Lop>
+		<DanhSach>
+			<MonHoc TenMon="Toán">
+				<Lan1>5</Lan1>
+				<Lan2>6</Lan2>
+				<CaNam>8</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Văm">
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Ngoại ngữ">
+				<Lan1>3</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>5</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sử">
+				<Lan1>2</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>3</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sinh">
+				<Lan1>8</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Tổng kết">
+				<Lan1>6</Lan1>
+				<Lan2>7</Lan2>
+				<CaNam>7</CaNam>
+			</MonHoc>
+		</DanhSach>
+		<XepLoai>Trung bình</XepLoai>
+		<HanhKiem>Khá</HanhKiem>
+		<GVCN>Trần Mai Linh</GVCN>
+	</SinhVien>
+	<SinhVien MaSV="00000002">
+		<HoTen>Nguyễn Việt Anh</HoTen>
+		<NgaySinh>2005-01-05</NgaySinh>
+		<Lop>KTPM5 - K9</Lop>
+		<DanhSach>
+			<MonHoc TenMon="Toán">
+				<Lan1>5</Lan1>
+				<Lan2>6</Lan2>
+				<CaNam>8</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Văm">
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Ngoại ngữ">
+				<Lan1>3</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>5</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sử">
+				<Lan1>2</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>3</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sinh">
+				<Lan1>8</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Tổng kết">
+				<Lan1>6</Lan1>
+				<Lan2>7</Lan2>
+				<CaNam>7</CaNam>
+			</MonHoc>
+		</DanhSach>
+		<XepLoai>Trung bình</XepLoai>
+		<HanhKiem>Khá</HanhKiem>
+		<GVCN>Trần Mai Linh</GVCN>
+	</SinhVien>
+	<SinhVien MaSV="00000003">
+		<HoTen>Nguyễn Việt Anh</HoTen>
+		<NgaySinh>2005-01-05</NgaySinh>
+		<Lop>KTPM5 - K9</Lop>
+		<DanhSach>
+			<MonHoc TenMon="Toán">
+				<Lan1>5</Lan1>
+				<Lan2>6</Lan2>
+				<CaNam>8</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Văm">
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Ngoại ngữ">
+				<Lan1>3</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>5</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sử">
+				<Lan1>2</Lan1>
+				<Lan2>5</Lan2>
+				<CaNam>3</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Sinh">
+				<Lan1>8</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			<MonHoc TenMon="Tổng kết">
+				<Lan1>6</Lan1>
+				<Lan2>7</Lan2>
+				<CaNam>7</CaNam>
+			</MonHoc>
+		</DanhSach>
+		<XepLoai>Trung bình</XepLoai>
+		<HanhKiem>Khá</HanhKiem>
+		<GVCN>Đặng Thị Nhung</GVCN>
+	</SinhVien>
+</KQHT>
