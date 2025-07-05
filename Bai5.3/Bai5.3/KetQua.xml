@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="KetQua.xslt"?>
+<DS xmlns="http://tempuri.org/KetQua.xsd">
+	<SV>
+		<MaSV>SV01</MaSV>
+		<MaMH>THDC</MaMH>
+		<Diem>8</Diem>
+	</SV>
+	<SV>
+		<MaSV>SV01</MaSV>
+		<MaMH>THVP</MaMH>
+		<Diem>9.5</Diem>
+	</SV>
+	<SV>
+		<MaSV>SV02</MaSV>
+		<MaMH>THDC</MaMH>
+		<Diem>5.5</Diem>
+	</SV>
+	<SV>
+		<MaSV>SV02</MaSV>
+		<MaMH>THVP</MaMH>
+		<Diem>5.5</Diem>
+	</SV>
+	<SV>
+		<MaSV>SV03</MaSV>
+		<MaMH>THDC</MaMH>
+		<Diem>9</Diem>
+	</SV>
+	<SV>
+		<MaSV>SV01</MaSV>
+		<MaMH>THDC</MaMH>
+		<Diem>4.5</Diem>
+	</SV>
+</DS>

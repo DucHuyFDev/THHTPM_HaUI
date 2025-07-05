@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MonHoc"
+    targetNamespace="http://tempuri.org/MonHoc.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/MonHoc.xsd"
+    xmlns:mstns="http://tempuri.org/MonHoc.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="soGioType">
+		<xs:restriction base="xs:int">
+			<xs:minExclusive value="3"></xs:minExclusive>
+			<xs:maxExclusive value="49"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="monHocType">
+		<xs:sequence>
+			<xs:element name="MaMH" type="xs:string"></xs:element>
+			<xs:element name="TenMH" type="xs:string"></xs:element>
+			<xs:element name="SoGio" type="soGioType"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="MonHoc" type="monHocType" minOccurs="1" maxOccurs="10"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+

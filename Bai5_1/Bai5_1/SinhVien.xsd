@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SinhVien"
+    targetNamespace="http://tempuri.org/SinhVien.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/SinhVien.xsd"
+    xmlns:mstns="http://tempuri.org/SinhVien.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Định nghĩa kiểu giới tính-->
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"></xs:enumeration>
+			<xs:enumeration value="Nữ"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Định nghĩa ràng huộc mã lớp-->
+	<xs:simpleType name="malopType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z{4][0-9]{2}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Định nghĩa kiểu sinh viên-->
+	<xs:complexType name="sinhVienType">
+		<xs:sequence>
+			<xs:element name="TenSV" type="xs:string"></xs:element>
+			<xs:element name="GioiTinh" type="gtType"></xs:element>
+			<xs:element name="NgaySinh" type="xs:date"></xs:element>
+			<xs:element name="MaLop" type="malopType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaSV" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="dsType">
+		<xs:sequence>
+			<xs:element name="HocSinh" type="sinhVienType" minOccurs="1" maxOccurs="10"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="DanhSach" type="dsType"></xs:element>
+</xs:schema>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="KetQua"
+    targetNamespace="http://tempuri.org/KetQua.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/KetQua.xsd"
+    xmlns:mstns="http://tempuri.org/KetQua.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name ="diemThiType">
+		<xs:restriction base="xs:float">
+			<xs:minInclusive value="0"></xs:minInclusive>
+			<xs:maxInclusive value="10"></xs:maxInclusive>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="sinhVienType">
+		<xs:sequence>
+			<xs:element name="MaSV" type="xs:string"></xs:element>
+			<xs:element name="MaMH" type="xs:string"></xs:element>
+			<xs:element name="Diem" type="diemThiType"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="SV" type="sinhVienType" minOccurs="1" maxOccurs="10"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|f:\\thhtpm_haui\\bai5.3\\bai5.3\\ketqua.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|F:\\THHTPM_HaUI\\Bai5.3\\bai5.3\\ketqua.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|F:\\THHTPM_HaUI\\Bai5.3\\bai5.3\\ketqua.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetQua.xslt",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xslt",
+              "RelativeDocumentMoniker": "Bai5.3\\KetQua.xslt",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xslt",
+              "RelativeToolTip": "Bai5.3\\KetQua.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-07-05T06:43:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KetQua.xml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xml",
+              "RelativeDocumentMoniker": "Bai5.3\\KetQua.xml",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xml",
+              "RelativeToolTip": "Bai5.3\\KetQua.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-05T06:41:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KetQua.xsd",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xsd",
+              "RelativeDocumentMoniker": "Bai5.3\\KetQua.xsd",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xsd",
+              "RelativeToolTip": "Bai5.3\\KetQua.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-07-05T06:34:19.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

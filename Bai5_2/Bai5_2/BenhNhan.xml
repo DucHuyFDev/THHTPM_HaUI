@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="BenhNhan.xslt"?>
+<BVDK xmlns="http://tempuri.org/BenhNhan.xsd">
+	<Khoa>
+		<TenKhoa>Ngoại</TenKhoa>
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN01">
+			<HoTen>Nguyễn Tuấn Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-01</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN02">
+			<HoTen>Nguyễn Tuấn Vũ</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-05</NgayNhapVien>
+			<NgayDieuTri>3</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN03">
+			<HoTen>Kiều Minh Tuấn</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-05</NgayNhapVien>
+			<NgayDieuTri>10</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>352</Phong>
+		<BenhNhan MasoBN="BN05">
+			<HoTen>Nguyễn Hải Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-01</NgayNhapVien>
+			<NgayDieuTri>5</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN04">
+			<HoTen>Ngô Hải Anh</HoTen>
+			<GioiTinh>Nữ</GioiTinh>
+			<NgayNhapVien>2017-01-05</NgayNhapVien>
+			<NgayDieuTri>1</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN06">
+			<HoTen>Lê Đức Huy</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-08</NgayNhapVien>
+			<NgayDieuTri>7</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+</BVDK>
