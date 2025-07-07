@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xslt"?>
+
+
+<TV TenTV="Khu A Đại học Công nghiệp" xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='ThuVien.xsd'>
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S001">
+			<TenSach>Tin văn phòng</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>100</SoTrang>
+		</Sach>
+		<Sach MaSach="">
+			<TenSach>Cơ sở dữ liệu</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>175</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Khoa học kỹ thuật">
+		<Sach MaSach="S001">
+			<TenSach>Cấu trúc dữ liệu và giải thuật</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>190</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Thiết kế máy điện</TenSach>
+			<TheLoai>Điện tử</TheLoai>
+			<SoTrang>270</SoTrang>
+		</Sach>
+		<Sach MaSach="">
+			<TenSach>Nguyên lý hệ điều hành</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>90</SoTrang>
+		</Sach>
+	</NhaXB>
+
+</TV>
+

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai3_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|F:\\THHTPM_HaUI\\Bai3_2\\bai3_2\\qlbv.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|f:\\thhtpm_haui\\bai3_2\\bai3_2\\qlbv.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|solutionrelative:bai3_2\\qlbv.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|f:\\thhtpm_haui\\bai3_2\\bai3_2\\qlbv.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|F:\\THHTPM_HaUI\\Bai3_2\\bai3_2\\qlbv.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|solutionrelative:bai3_2\\qlbv.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|f:\\thhtpm_haui\\bai3_2\\bai3_2\\qlbv.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|F:\\THHTPM_HaUI\\Bai3_2\\bai3_2\\qlbv.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2D654AE4-B9DC-4B3F-9906-D17E42A2DA66}|Bai3_2\\Bai3_XSLT_2.csproj|solutionrelative:bai3_2\\qlbv.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Bai3_2\\QLBV.xslt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
-              "WhenOpened": "2025-07-04T06:09:22.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:09:22.361Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Bai3_2\\QLBV.xsd",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-07-04T07:02:51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T07:02:51Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "Bai3_2\\QLBV.xml",
               "ToolTip": "F:\\THHTPM_HaUI\\Bai3_2\\Bai3_2\\QLBV.xml",
               "RelativeToolTip": "Bai3_2\\QLBV.xml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-07-04T00:42:35.492Z",
               "EditorCaption": ""

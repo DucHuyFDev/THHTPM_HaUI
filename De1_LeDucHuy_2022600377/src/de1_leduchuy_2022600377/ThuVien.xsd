@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <!-- Định nghĩa kdl mã sách -->
+    <xs:simpleType name="maSachType">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="6"></xs:maxLength>
+        </xs:restriction>
+    </xs:simpleType> 
+    
+    <!-- Định nghĩa kiểu dữ liệu số trang -->
+	<xs:simpleType name="soTrangType">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="50"></xs:minInclusive>
+			<xs:maxInclusive value="400"></xs:maxInclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Định nghĩa kdl nhà xuất bản-->
+	<xs:simpleType name="tennxbType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Giáo dục"></xs:enumeration>
+			<xs:enumeration value="Tuổi trẻ"></xs:enumeration>
+			<xs:enumeration value="Khoa học kỹ thuật"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="sachType">
+		<xs:sequence>
+			<xs:element name="TenSach" type="xs:string"></xs:element>
+			<xs:element name="TheLoai" type="xs:string"></xs:element>
+			<xs:element name="SoTrang" type="soTrangType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaSach" type="maSachType" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<xs:element name="NhaXB">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Sach" type="sachType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="TenNXB" type="tennxbType" use ="required"></xs:attribute>
+		</xs:complexType>
+		<xs:unique name="uniqueMaSach">
+			<xs:selector xpath="TV/NhaXB/Sach"></xs:selector>
+			<xs:field xpath="@MaSach"></xs:field>
+		</xs:unique>
+	</xs:element>
+
+	<xs:complexType name="tvType">
+		<xs:sequence>
+			<xs:element ref="NhaXB" minOccurs="0" maxOccurs="10"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="TenTV" type="xs:string"></xs:attribute>
+	</xs:complexType>
+        
+    <xs:element name="TV" type="tvType"></xs:element>
+	
+</xs:schema>
