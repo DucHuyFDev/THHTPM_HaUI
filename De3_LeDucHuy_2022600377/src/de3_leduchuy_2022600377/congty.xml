@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xsl-stylesheet type="text/xsl" href="congty.xsl"?>
+
+
+<CongTy
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='congty.xsd'>
+    <Phong MaPhong="m01">
+        <DienThoai>0234-232-423</DienThoai>
+        <SanPham>
+            <MaSP>sp01</MaSP>
+            <TenSP>Điện thoại 1</TenSP>
+            <GiaTien>200</GiaTien>
+        </SanPham>
+        <SanPham>
+            <MaSP>sp02</MaSP>
+            <TenSP>Điện thoại 2</TenSP>
+            <GiaTien>650</GiaTien>
+        </SanPham>
+        <SanPham>
+            <MaSP>sp03</MaSP>
+            <TenSP>Ipad 01</TenSP>
+            <GiaTien>150</GiaTien>
+        </SanPham>
+    </Phong>
+    <Phong MaPhong="m02">
+        <DienThoai>0985-650-918</DienThoai>
+        <SanPham>
+            <MaSP>sp04</MaSP>
+            <TenSP>Tủ lạnh</TenSP>
+            <GiaTien>845</GiaTien>
+        </SanPham>
+        <SanPham>
+            <MaSP>sp05</MaSP>
+            <TenSP>Lò vi sóng</TenSP>
+            <GiaTien>825</GiaTien>
+        </SanPham>
+        <SanPham>
+            <MaSP>sp06</MaSP>
+            <TenSP>Bàn là</TenSP>
+            <GiaTien>625</GiaTien>
+        </SanPham>
+    </Phong>
+
+</CongTy>
+
