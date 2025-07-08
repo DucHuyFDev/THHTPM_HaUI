@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+	<xs:simpleType name="maSachType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="s.{3}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="tenType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="3"></xs:minLength>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="diaChiType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Hà Nội"></xs:enumeration>
+			<xs:enumeration value="Thái Bình"></xs:enumeration>
+			<xs:enumeration value="Nam Định"></xs:enumeration>
+			<xs:enumeration value="Hải Phòng"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="tacGiaType">
+		<xs:sequence>
+			<xs:element name="HoTen" type="tenType"></xs:element>
+			<xs:element name="DiaChi" type="diaChiType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="matg" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="cuonSachType">
+		<xs:sequence>
+			<xs:element name="masach" type="xs:string"></xs:element>
+			<xs:element name="tensach" type="xs:string"></xs:element>
+			<xs:element name="sotrang" type="xs:integer"></xs:element>
+			<xs:element name="tacgia" type="tacGiaType"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:element name="nhasach">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="cuonsach" type="cuonSachType" minOccurs="3" maxOccurs="unbounded"></xs:element>	
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

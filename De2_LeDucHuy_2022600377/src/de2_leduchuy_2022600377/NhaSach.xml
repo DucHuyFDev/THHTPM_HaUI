@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="NhaSach.xsl"?>
+
+
+<nhasach
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='NhaSach.xsd'>
+    <cuonsach>
+        <masach>s01</masach>
+        <tensach>Lập trình C++</tensach>
+        <sotrang>300</sotrang>
+        <tacgia matg="s01">
+            <HoTen>Hoàng Văn Long</HoTen>
+            <DiaChi>Nam Định</DiaChi>
+        </tacgia>
+    </cuonsach>
+    <cuonsach>
+        <masach>s02</masach>
+        <tensach>Cấu trúc dữ liệu và giải thuật</tensach>
+        <sotrang>130</sotrang>
+        <tacgia matg="s02">
+            <HoTen>An Văn Minh</HoTen>
+            <DiaChi>Hà Nội</DiaChi>
+        </tacgia>
+    </cuonsach>
+    <cuonsach>
+        <masach>s03</masach>
+        <tensach>Phân tích thiết kế hướng đối tượng</tensach>
+        <sotrang>240</sotrang>
+        <tacgia matg="s03">
+            <HoTen>Phan Văn Tuấn</HoTen>
+			<DiaChi>Hải Phòng</DiaChi>
+        </tacgia>
+    </cuonsach>
+
+</nhasach>
+
