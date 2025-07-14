@@ -1,0 +1,8 @@
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\bin\Debug\Bai6_1_Bai2.exe.config
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\bin\Debug\Bai6_1_Bai2.exe
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\bin\Debug\Bai6_1_Bai2.pdb
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\obj\Debug\Bai6_1_Bai2.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\obj\Debug\Bai6_1_Bai2.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\obj\Debug\Bai6_1_Bai2.exe
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\obj\Debug\Bai6_1_Bai2.pdb
+F:\THHTPM_HaUI\Bai6_1_Bai2\Bai6_1_Bai2\obj\Debug\Bai6_1_Bai2.exe.config

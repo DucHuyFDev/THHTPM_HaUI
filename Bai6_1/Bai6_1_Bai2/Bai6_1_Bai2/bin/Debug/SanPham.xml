@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sieuthi>
+	<sanpham>
+		<masp>SP01</masp>
+		<tensp>IPhone XS</tensp>
+		<soluong>20</soluong>
+	</sanpham>
+	<sanpham>
+		<masp>sp02</masp>
+		<tensp>Samsung Star</tensp>
+		<soluong>10</soluong>
+	</sanpham>
+</sieuthi>

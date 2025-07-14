@@ -1,0 +1,10 @@
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\bin\Debug\Bai6_1.exe.config
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\bin\Debug\Bai6_1.exe
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\bin\Debug\Bai6_1.pdb
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\bin\Debug\Newtonsoft.Json.dll
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\bin\Debug\Newtonsoft.Json.xml
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\obj\Debug\Bai6_1.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\obj\Debug\Bai6_1.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\obj\Debug\Bai6_1.csproj.Up2Date
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\obj\Debug\Bai6_1.exe
+F:\THHTPM_HaUI\Bai6_1\Bai6_1\obj\Debug\Bai6_1.pdb

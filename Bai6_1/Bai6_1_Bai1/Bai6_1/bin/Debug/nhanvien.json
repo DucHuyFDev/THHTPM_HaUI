@@ -1,0 +1,14 @@
+[
+  {
+    "MaNV": "NV01",
+    "HoTen": "Nguyễn Văn A",
+    "Tuoi": 30,
+    "ChucVu": "Trưởng phòng"
+  },
+  {
+    "MaNV": "NV02",
+    "HoTen": "Lê Văn B",
+    "Tuoi": 25,
+    "ChucVu": "Nhân viên"
+  }
+]

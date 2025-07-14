@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+	<xs:simpleType name="soTrangType">
+		<xs:restriction base="xs:integer">
+			<xs:minExclusive value="50"></xs:minExclusive>
+			<xs:maxExclusive value="400"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="nxbType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Giáo dục"></xs:enumeration>
+			<xs:enumeration value="Tuổi trẻ"></xs:enumeration>
+			<xs:enumeration value="Khoa học kỹ thuật"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="maSachType">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="6"></xs:maxLength>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="sachType">
+		<xs:sequence>
+			<xs:element name="TenSach" type="xs:string"></xs:element>
+			<xs:element name="TheLoai" type="xs:string"></xs:element>
+			<xs:element name="SoTrang" type="soTrangType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaSach" type="maSachType"></xs:attribute>
+	</xs:complexType>
+
+	<xs:element name="NhaXB">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Sach" type="sachType" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="TenNXB" type="nxbType"></xs:attribute>
+		</xs:complexType>
+		<xs:unique name="uniqueMaSach">
+			<xs:selector xpath="Sach"></xs:selector>
+			<xs:field xpath ="@MaSach"></xs:field>
+		</xs:unique>
+	</xs:element>
+
+	<xs:element name="TV">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref ="NhaXB" minOccurs="1" maxOccurs="10"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="TenTV" type="xs:string"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
