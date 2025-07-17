@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Danh sách sinh viên</title>
+  <style>
+    table {
+        border-collapse: collapse;
+    }
+    th, td{
+        border: 2px solid black;
+    }
+
+    th{
+        background-color: aqua;
+    }
+  </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const sinhviens = [
+        {
+          masv: "SV001",
+          hoten: "Nguyễn Văn A",
+          tuoi: 20,
+          diachi: "Hà Nội",
+          dienthoai: "0123456789"
+        },
+        {
+          masv: "SV002",
+          hoten: "Trần Thị B",
+          tuoi: 21,
+          diachi: "TP.HCM",
+          dienthoai: "0987654321"
+        }
+      ];
+
+      var tbody = document.getElementById("data");
+      for (var i = 0; i < sinhviens.length; i++) {
+        var sv = sinhviens[i];
+        var row = `
+          <tr>
+            <td>${sv.masv}</td>
+            <td>${sv.hoten}</td>
+            <td>${sv.tuoi}</td>
+            <td>${sv.diachi}</td>
+            <td>${sv.dienthoai}</td>
+          </tr>
+        `
+        tbody.innerHTML += row;
+      }
+    });
+  </script>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Mã sinh viên</th>
+        <th>Họ tên</th>
+        <th>Tuổi</th>
+        <th>Địa chỉ</th>
+        <th>Điện thoại</th>
+      </tr>
+    </thead>
+    <tbody id="data"></tbody>
+  </table>
+</body>
+</html>

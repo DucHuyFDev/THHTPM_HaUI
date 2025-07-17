@@ -30,7 +30,7 @@ namespace Bai6_2
             Console.WriteLine($"{indent}{root.Name}");
 
             // In thuộc tính nếu có
-            if (root.Attributes != null && root.Attributes.Count > 0)
+            if (root.Attributes.Count > 0)
             {
                 foreach (XmlAttribute attr in root.Attributes)
                 {
@@ -38,7 +38,8 @@ namespace Bai6_2
                 }
             }
 
-            // Nếu node là node lá chứa text
+            // Nếu node là node chỉ chứa 1 con (để đảm bảo là không bị chồng chéo data) và kiểu
+            // của node là node text (bên trong chứa text chứ k phải element)
             if (root.ChildNodes.Count == 1 && root.FirstChild.NodeType == XmlNodeType.Text)
             {
                 Console.WriteLine($"{indent}{root.InnerText}");

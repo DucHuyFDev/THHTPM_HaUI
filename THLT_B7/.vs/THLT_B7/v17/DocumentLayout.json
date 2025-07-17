@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\THLT_B7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39D0DA-8C8D-4873-AE12-F87971B212A5}|THLT_B7\\THLT_B7.csproj|f:\\thhtpm_haui\\thlt_b7\\thlt_b7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39D0DA-8C8D-4873-AE12-F87971B212A5}|THLT_B7\\THLT_B7.csproj|solutionrelative:thlt_b7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39D0DA-8C8D-4873-AE12-F87971B212A5}|THLT_B7\\THLT_B7.csproj|f:\\thhtpm_haui\\thlt_b7\\thlt_b7\\cuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39D0DA-8C8D-4873-AE12-F87971B212A5}|THLT_B7\\THLT_B7.csproj|solutionrelative:thlt_b7\\cuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuonSach.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\THLT_B7\\THLT_B7\\CuonSach.cs",
+              "RelativeDocumentMoniker": "THLT_B7\\CuonSach.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\THLT_B7\\THLT_B7\\CuonSach.cs",
+              "RelativeToolTip": "THLT_B7\\CuonSach.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:57:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\THLT_B7\\THLT_B7\\Program.cs",
+              "RelativeDocumentMoniker": "THLT_B7\\Program.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\THLT_B7\\THLT_B7\\Program.cs",
+              "RelativeToolTip": "THLT_B7\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:38:58.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bài 7.2</title>
+    <style>
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .container{
+            width: 1200px;
+            margin: 0 auto;
+        }
+        table{
+            border-collapse: collapse;
+            text-align: center;
+            font-size: 20px;
+        }
+        th, td{
+            border: 2px solid gray;
+            min-width: 100px;
+            min-height: 60px; /* đảm bảo không thấp */
+            padding: 10px;     /* tăng khoảng cách trong ô */
+            vertical-align: middle;
+            text-align: center;
+        }
+
+        th{
+            background-color: aqua;
+        }
+
+        td#red_total{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p style="text-align: center; color:blue; font-size: 25px;">DANH SÁCH NHÂN VIÊN</p>
+        <table align="center">
+            <thead>
+                <tr>
+                    <th>Mã nhân viên</th>
+                    <th>Họ tên</th>
+                    <th>Xã</th>
+                    <th>Huyện</th>
+                    <th>Tỉnh</th>
+                    <th>Lương</th>
+                    <th>Thưởng</th>
+                    <th>Tổng lương</th>
+                </tr>
+            </thead>
+            <tbody id = "data"></tbody>
+            <script>
+        var data_nv = [
+            {
+                "manv": "NV001",
+                "hoten": "Nguyễn Văn Bình",
+                "luong": 8000000,
+                "thuong": 2000000,
+                "tongluong": 10000000,
+                "diachi": {
+                    "xa": "Yên Hòa",
+                    "huyen": "Cầu Giấy",
+                    "tinh": "Hà Nội"
+                }
+            },
+            {
+                "manv": "NV002",
+                "hoten": "Trần Thị Hòa",
+                "luong": 9000000,
+                "thuong": 1000000,
+                "tongluong": 10000000,
+                "diachi": {
+                    "xa": "Tân Định",
+                    "huyen": "Quận 1",
+                    "tinh": "TP.HCM"
+                }
+            }
+         ]
+         var data = document.getElementById("data");
+         for (var i = 0; i < data_nv.length; i++){
+            var str = `
+                <tr>
+                    <td>${data_nv[i].manv}</td>
+                    <td>${data_nv[i].hoten}</td>
+                    <td>${data_nv[i].diachi.xa}</td>
+                    <td>${data_nv[i].diachi.huyen}</td>
+                    <td>${data_nv[i].diachi.tinh}</td>
+                    <td>${data_nv[i].luong}</td>
+                    <td>${data_nv[i].thuong}</td>
+                    <td id ="red_total">${data_nv[i].tongluong}</td>
+                </tr>
+            `
+            data.innerHTML += str;
+         }
+         
+    </script>
+        </table>
+    </div>
+</body>
+</html>

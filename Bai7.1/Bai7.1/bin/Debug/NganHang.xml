@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>tk001</sotaikhoan>
+    <tentaikhoan>Nguyen Thi Mai Anh</tentaikhoan>
+    <diachi>Ha noi</diachi>
+    <dienthoai>098734544</dienthoai>
+    <sotien>300000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk002</sotaikhoan>
+    <tentaikhoan>Lê Đức Huy</tentaikhoan>
+    <diachi>Hà Nội</diachi>
+    <dienthoai>0123456789</dienthoai>
+    <sotien>150000</sotien>
+  </taikhoan>
+</nganhang>

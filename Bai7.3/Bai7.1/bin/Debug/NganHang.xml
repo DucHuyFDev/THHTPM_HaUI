@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>tk002</sotaikhoan>
+    <tentaikhoan>Lê Đức Huy</tentaikhoan>
+    <diachi>TPHCM</diachi>
+    <dienthoai>0123456789</dienthoai>
+    <sotien>150000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk003</sotaikhoan>
+    <tentaikhoan>Dũng</tentaikhoan>
+    <diachi>Hà Nội</diachi>
+    <dienthoai>0123654789</dienthoai>
+    <sotien>250000</sotien>
+  </taikhoan>
+</nganhang>

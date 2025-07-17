@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|F:\\THHTPM_HaUI\\Bai7.1\\bai7.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|solutionrelative:bai7.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|f:\\thhtpm_haui\\bai7.1\\bai7.1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|solutionrelative:bai7.1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|F:\\THHTPM_HaUI\\Bai7.1\\bai7.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|solutionrelative:bai7.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|F:\\THHTPM_HaUI\\Bai7.1\\bai7.1\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4270D516-4681-4098-8D37-5726A24AC65E}|Bai7.1\\Bai7.1.csproj|solutionrelative:bai7.1\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai7.1\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\Form1.cs",
+              "RelativeToolTip": "Bai7.1\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:00:14.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\DataUtil.cs",
+              "RelativeDocumentMoniker": "Bai7.1\\DataUtil.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\DataUtil.cs",
+              "RelativeToolTip": "Bai7.1\\DataUtil.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwD4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:56:52.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai7.1\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai7.1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:53:39.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Bai7.1\\TaiKhoan.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai7.1\\Bai7.1\\TaiKhoan.cs",
+              "RelativeToolTip": "Bai7.1\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:53:59.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

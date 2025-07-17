@@ -1,0 +1,22 @@
+<course>
+  <sinhvien id="SV01">
+    <name>Le Huy</name>
+    <age>25</age>
+    <city>Ha Noi</city>
+  </sinhvien>
+  <sinhvien id="SV02">
+    <name>Huyền</name>
+    <age>25</age>
+    <city>Hải Dương</city>
+  </sinhvien>
+  <sinhvien id="SV03">
+    <name>Hà</name>
+    <age>28</age>
+    <city>TPHCM</city>
+  </sinhvien>
+  <sinhvien id="SV04">
+    <name>Dương</name>
+    <age>29</age>
+    <city>Hạ Long</city>
+  </sinhvien>
+</course>

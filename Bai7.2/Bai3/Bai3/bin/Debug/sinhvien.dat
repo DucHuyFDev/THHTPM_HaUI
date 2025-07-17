@@ -1,0 +1,16 @@
+[
+  {
+    "masv": "SV001",
+    "hoten": "Nguyễn Văn A",
+    "tuoi": "20",
+    "diachi": "Hà Nội",
+    "dienthoai": "0123456789"
+  },
+  {
+    "masv": "SV002",
+    "hoten": "Trần Thị B",
+    "tuoi": "20",
+    "diachi": "Nghệ An",
+    "dienthoai": "0987654321"
+  }
+]

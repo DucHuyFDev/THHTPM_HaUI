@@ -1,0 +1,11 @@
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\bin\Debug\THLT_Bai7_2.exe.config
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\bin\Debug\THLT_Bai7_2.exe
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\bin\Debug\THLT_Bai7_2.pdb
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.Form1.resources
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.Properties.Resources.resources
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.exe
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.pdb
+F:\THHTPM_HaUI\THLT_Bai7_2\THLT_Bai7_2\obj\Debug\THLT_Bai7_2.exe.config

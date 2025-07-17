@@ -1,0 +1,11 @@
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\bin\Debug\Bai7.1.exe.config
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\bin\Debug\Bai7.1.exe
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\bin\Debug\Bai7.1.pdb
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7._1.Form1.resources
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7._1.Properties.Resources.resources
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.exe
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.pdb
+F:\THHTPM_HaUI\Bai7.1\Bai7.1\obj\Debug\Bai7.1.exe.config

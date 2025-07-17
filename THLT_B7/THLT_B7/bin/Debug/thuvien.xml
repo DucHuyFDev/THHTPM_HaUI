@@ -1,0 +1,20 @@
+<thuvien>
+  <cuonsach masach="j01" theloai="Công nghệ thông tin">
+    <tensach>Lập trình Java</tensach>
+    <sotrang>500</sotrang>
+    <tacgia>
+      <hoten>Nguyễn Đăng Hoàng</hoten>
+      <sdt>0123456</sdt>
+    </tacgia>
+    <giatien />
+  </cuonsach>
+  <cuonsach masach="j02" theloai="Công nghệ sinh học">
+    <tensach>Sinh học đại cương</tensach>
+    <sotrang>500</sotrang>
+    <tacgia>
+      <hoten>Nguyễn Hoàng Duyên</hoten>
+      <sdt>0987654</sdt>
+    </tacgia>
+    <giatien />
+  </cuonsach>
+</thuvien>
