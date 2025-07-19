@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|F:\\THHTPM_HaUI\\Bai8\\bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form2.cs",
+              "RelativeDocumentMoniker": "Bai8\\Form2.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form2.cs",
+              "RelativeToolTip": "Bai8\\Form2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:39:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form2.cs",
+              "RelativeDocumentMoniker": "Bai8\\Form2.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form2.cs [Design]",
+              "RelativeToolTip": "Bai8\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:35:03.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai8\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs",
+              "RelativeToolTip": "Bai8\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:18:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\DataUtil.cs",
+              "RelativeDocumentMoniker": "Bai8\\DataUtil.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\DataUtil.cs",
+              "RelativeToolTip": "Bai8\\DataUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:23:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Bai8\\NhanVien.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\NhanVien.cs",
+              "RelativeToolTip": "Bai8\\NhanVien.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:20:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai8\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:13:38.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

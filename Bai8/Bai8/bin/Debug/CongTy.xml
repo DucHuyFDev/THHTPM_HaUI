@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="n01">
+    <hoten>Nguyễn Thị Anh</hoten>
+    <tuoi>30</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bac Từ Liem</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0987656781</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n02">
+    <hoten>Lê Đức Huy</hoten>
+    <tuoi>25</tuoi>
+    <luong>2500</luong>
+    <diachi>
+      <xa>Xuân Mai</xa>
+      <huyen>Chương Mỹ</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0123456789</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n03">
+    <hoten>Lê Hoàng Dũng</hoten>
+    <tuoi>30</tuoi>
+    <luong>1250</luong>
+    <diachi>
+      <xa>Tiên Động</xa>
+      <huyen>Chương Mỹ</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0325698741</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n04">
+    <hoten>Vũ Minh Huyền</hoten>
+    <tuoi>26</tuoi>
+    <luong>32560000</luong>
+    <diachi>
+      <xa>Abc</xa>
+      <huyen>Def</huyen>
+      <tinh>Ghi</tinh>
+    </diachi>
+    <dienthoai>0125469873</dienthoai>
+  </nhanvien>
+</congty>

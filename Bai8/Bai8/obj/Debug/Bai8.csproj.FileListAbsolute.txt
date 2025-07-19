@@ -1,0 +1,12 @@
+F:\THHTPM_HaUI\Bai8\Bai8\bin\Debug\Bai8.exe.config
+F:\THHTPM_HaUI\Bai8\Bai8\bin\Debug\Bai8.exe
+F:\THHTPM_HaUI\Bai8\Bai8\bin\Debug\Bai8.pdb
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.Form1.resources
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.exe
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.pdb
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.exe.config
+F:\THHTPM_HaUI\Bai8\Bai8\obj\Debug\Bai8.Form2.resources
