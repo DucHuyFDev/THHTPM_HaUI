@@ -34,7 +34,6 @@ namespace Bai8
             dgvSearch.ReadOnly = true;
             if (lst_search.Count > 0 )
             {
-                dgvSearch.DataSource = lst_search;
                 dgvSearch.Columns[0].Width = 50;
                 dgvSearch.Columns[1].Width = 100;
                 dgvSearch.Columns[2].Width = 100;
