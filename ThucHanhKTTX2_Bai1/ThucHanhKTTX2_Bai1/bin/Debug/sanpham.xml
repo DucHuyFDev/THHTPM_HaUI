@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kho>
+  <sanpham masp="sp01">
+    <tensp>Chuột không dây FPT</tensp>
+    <loai>Phụ kiện</loai>
+    <soluong>10</soluong>
+    <dongia>250000</dongia>
+  </sanpham>
+  <sanpham masp="sp02">
+    <tensp>Bàn phím cơ Đức Huy</tensp>
+    <loai>Phụ kiện</loai>
+    <soluong>20</soluong>
+    <dongia>850000</dongia>
+  </sanpham>
+  <sanpham masp="sp03">
+    <tensp>Cơm cuộn Hàn Quốc</tensp>
+    <loai>Thực phẩm</loai>
+    <soluong>1500</soluong>
+    <dongia>150000</dongia>
+  </sanpham>
+</kho>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kho>
+	<sanpham masp ="sp01">
+		<tensp>Chuột không dây Logitech</tensp>
+		<loai>Phụ kiện</loai>
+		<soluong>50</soluong>
+		<dongia>250000</dongia>
+	</sanpham>
+	<sanpham masp ="sp02">
+		<tensp>Bàn phím cơ Akko</tensp>
+		<loai>Phụ kiện</loai>
+		<soluong>20</soluong>
+		<dongia>850000</dongia>
+	</sanpham>
+</kho>

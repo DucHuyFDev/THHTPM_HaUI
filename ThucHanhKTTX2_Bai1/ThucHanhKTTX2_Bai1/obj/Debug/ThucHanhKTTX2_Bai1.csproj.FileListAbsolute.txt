@@ -1,0 +1,12 @@
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\bin\Debug\ThucHanhKTTX2_Bai1.exe.config
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\bin\Debug\ThucHanhKTTX2_Bai1.exe
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\bin\Debug\ThucHanhKTTX2_Bai1.pdb
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.Form1.resources
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.Properties.Resources.resources
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.exe
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.pdb
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.exe.config
+F:\THHTPM_HaUI\ThucHanhKTTX2_Bai1\ThucHanhKTTX2_Bai1\obj\Debug\ThucHanhKTTX2_Bai1.Form2.resources

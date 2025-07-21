@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\THHTPM_HaUI\\THLT_Bai7_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|f:\\thhtpm_haui\\thlt_bai7_2\\thlt_bai7_2\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|solutionrelative:thlt_bai7_2\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|F:\\THHTPM_HaUI\\THLT_Bai7_2\\thlt_bai7_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|solutionrelative:thlt_bai7_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|f:\\thhtpm_haui\\thlt_bai7_2\\thlt_bai7_2\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|solutionrelative:thlt_bai7_2\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8649501-4880-430C-BF09-0FF720A5D2C3}|THLT_Bai7_2\\THLT_Bai7_2.csproj|F:\\THHTPM_HaUI\\THLT_Bai7_2\\thlt_bai7_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\THLT_Bai7_2\\THLT_Bai7_2\\Form1.cs",
               "RelativeDocumentMoniker": "THLT_Bai7_2\\Form1.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\THLT_Bai7_2\\THLT_Bai7_2\\Form1.cs",
               "RelativeToolTip": "THLT_Bai7_2\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwIQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwIQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T03:30:38.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataUtil.cs",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\THLT_Bai7_2\\THLT_Bai7_2\\DataUtil.cs",
               "RelativeDocumentMoniker": "THLT_Bai7_2\\DataUtil.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\THLT_Bai7_2\\THLT_Bai7_2\\DataUtil.cs",
               "RelativeToolTip": "THLT_Bai7_2\\DataUtil.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T02:43:30.756Z",
               "EditorCaption": ""
