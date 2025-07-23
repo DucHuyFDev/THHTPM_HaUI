@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thongtincuocgoi>
+  <cuocgoi sodien="19001590" chinhanh="Hoàn Kiếm">
+    <sogoiden>0982727272</sogoiden>
+    <ngaygoi>1998-12-01</ngaygoi>
+    <sophut>2</sophut>
+  </cuocgoi>
+  <cuocgoi sodien="19001590" chinhanh="Hoàn Kiếm">
+    <sogoiden>0123654789</sogoiden>
+    <ngaygoi>2025-01-01</ngaygoi>
+    <sophut>7.5</sophut>
+  </cuocgoi>
+  <cuocgoi sodien="19001886" chinhanh="Thanh Xuân">
+    <sogoiden>0365897412</sogoiden>
+    <ngaygoi>2025-07-12</ngaygoi>
+    <sophut>1</sophut>
+  </cuocgoi>
+</thongtincuocgoi>

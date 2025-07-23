@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|F:\\THHTPM_HaUI\\Practice_InClass_B6\\practice_inclass_b6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|solutionrelative:practice_inclass_b6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|F:\\THHTPM_HaUI\\Practice_InClass_B6\\practice_inclass_b6\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|solutionrelative:practice_inclass_b6\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|f:\\thhtpm_haui\\practice_inclass_b6\\practice_inclass_b6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D27C47-1BDA-4D6A-BDDC-A70757C8F78C}|Practice_InClass_B6\\Practice_InClass_B6.csproj|solutionrelative:practice_inclass_b6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice_InClass_B6\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\Form1.cs",
+              "RelativeToolTip": "Practice_InClass_B6\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:10:13.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\DataUtil.cs",
+              "RelativeDocumentMoniker": "Practice_InClass_B6\\DataUtil.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\DataUtil.cs",
+              "RelativeToolTip": "Practice_InClass_B6\\DataUtil.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:04:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\Form1.cs",
+              "RelativeDocumentMoniker": "Practice_InClass_B6\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Practice_InClass_B6\\Practice_InClass_B6\\Form1.cs [Design]",
+              "RelativeToolTip": "Practice_InClass_B6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:01:36.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

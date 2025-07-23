@@ -1,0 +1,11 @@
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\bin\Debug\Practice_InClass_B6.exe.config
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\bin\Debug\Practice_InClass_B6.exe
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\bin\Debug\Practice_InClass_B6.pdb
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.Form1.resources
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.Properties.Resources.resources
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.exe
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.pdb
+F:\THHTPM_HaUI\Practice_InClass_B6\Practice_InClass_B6\obj\Debug\Practice_InClass_B6.exe.config

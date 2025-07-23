@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|f:\\thhtpm_haui\\thuchanhkttx2_bai1\\thuchanhkttx2_bai1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1FB7487-C0AC-4E76-96D9-1BFF352008DA}|ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1.csproj|solutionrelative:thuchanhkttx2_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DataUtil.cs",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\DataUtil.cs",
               "RelativeDocumentMoniker": "ThucHanhKTTX2_Bai1\\DataUtil.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\DataUtil.cs",
               "RelativeToolTip": "ThucHanhKTTX2_Bai1\\DataUtil.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAiwI4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowI0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T18:08:32.426Z",
               "IsPinned": true,
@@ -48,28 +48,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form2.cs",
               "RelativeDocumentMoniker": "ThucHanhKTTX2_Bai1\\Form2.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form2.cs",
               "RelativeToolTip": "ThucHanhKTTX2_Bai1\\Form2.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA3wCUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:06:28.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:06:28.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form2.cs",
               "RelativeDocumentMoniker": "ThucHanhKTTX2_Bai1\\Form2.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form2.cs [Design]",
               "RelativeToolTip": "ThucHanhKTTX2_Bai1\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:05:59.331Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-21T19:05:59.331Z"
             },
             {
               "$type": "Document",
@@ -81,20 +79,18 @@
               "RelativeToolTip": "ThucHanhKTTX2_Bai1\\Form1.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAkwIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:55:13.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:55:13.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form1.cs",
               "RelativeDocumentMoniker": "ThucHanhKTTX2_Bai1\\Form1.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\ThucHanhKTTX2_Bai1\\ThucHanhKTTX2_Bai1\\Form1.cs [Design]",
               "RelativeToolTip": "ThucHanhKTTX2_Bai1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:02:39.534Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-21T18:02:39.534Z"
             }
           ]
         }
