@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<DS tenbv="Bệnh viện Bạch Mai"
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='BenhNhan.xsd'>
+    <khoa makhoa="A01">
+        <tenkhoa>Khoa thần kinh</tenkhoa>
+		<benhnhan maso="bn001" songay="20">
+			<hoten>Lê Thị Lan</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn002" songay="25">
+			<hoten>Lê Thị Huyền</hoten>
+			<ngaysinh>1990-11-01</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn003" songay="7">
+			<hoten>Ngô Anh Vũ</hoten>
+			<ngaysinh>2004-10-04</ngaysinh>
+		</benhnhan>
+    </khoa>
+    <khoa makhoa="A02">
+        <tenkhoa>Khoa ngoại</tenkhoa>
+		<benhnhan maso="bn004" songay="10">
+			<hoten>Lê Thị Luyến</hoten>
+			<ngaysinh>1991-11-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn005" songay="2">
+			<hoten>Ngô Anh Thắng</hoten>
+			<ngaysinh>1995-01-14</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn006" songay="17">
+			<hoten>Bùi Xuân Huấn</hoten>
+			<ngaysinh>1985-11-15</ngaysinh>
+		</benhnhan>
+    </khoa>
+    
+
+</DS>
+

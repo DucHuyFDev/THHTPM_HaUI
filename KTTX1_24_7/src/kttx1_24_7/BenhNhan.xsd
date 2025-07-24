@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+	<xs:simpleType name="songaynvType">
+		<xs:restriction base="xs:int">
+			<xs:maxExclusive value="40"></xs:maxExclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="tenkhoaType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Khoa thần kinh"></xs:enumeration>
+			<xs:enumeration value="Khoa nội"></xs:enumeration>
+			<xs:enumeration value="Khoa ngoại"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="benhNhanType">
+		<xs:sequence>
+			<xs:element name="hoten" type="xs:string"></xs:element>
+			<xs:element name="ngaysinh" type="xs:date"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="maso" type="xs:string"></xs:attribute>
+		<xs:attribute name="songay" type="songaynvType"></xs:attribute>
+	</xs:complexType>
+
+	<xs:element name="khoa">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="tenkhoa" type="tenkhoaType"></xs:element>
+				<xs:element name="benhnhan" type="benhNhanType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="makhoa" type="xs:string"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="khoa" minOccurs="0" maxOccurs="10"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="tenbv" type="xs:string"></xs:attribute>
+		</xs:complexType>
+		<xs:unique name="uniqueMaKhoa">
+			<xs:selector xpath="DS/khoa"></xs:selector>
+			<xs:field xpath ="@makhoa"></xs:field>
+		</xs:unique>
+	</xs:element>
+	
+</xs:schema>

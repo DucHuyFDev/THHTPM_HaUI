@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLLuong">
+  <DataContextMoniker Name="/QLLuongDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fb4dac6b-bde4-4a66-aa42-13f865e40c9a" absoluteBounds="2.25, 0.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/QLLuongDataContext/DonVi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b5e961e-daf4-4ede-8d37-e1507b36c8da" absoluteBounds="2.265, 1.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e7096352-48d7-4417-a6d2-f835bf3b2262" absoluteBounds="3.25, 2.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLLuongDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff971ff8-3f07-4dd1-b0f0-d2c5ab5643b3" absoluteBounds="3.265, 3.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 1.81899251302083); (3.75 : 2.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLLuongDataContext/DonVi/DonVi_NhanVien" />
+      <nodes>
+        <classShapeMoniker Id="fb4dac6b-bde4-4a66-aa42-13f865e40c9a" />
+        <classShapeMoniker Id="e7096352-48d7-4417-a6d2-f835bf3b2262" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
