@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bangdiem>
+  <sinhvien masv="1111" monhoc="Lập trình Windows">
+    <diemlan1>3</diemlan1>
+    <diemlan2>8</diemlan2>
+  </sinhvien>
+  <sinhvien masv="2222" monhoc="Lập trình Java">
+    <diemlan1>4</diemlan1>
+    <diemlan2>8</diemlan2>
+  </sinhvien>
+  <sinhvien masv="1114" monhoc="Lập trình Windows">
+    <diemlan1>9</diemlan1>
+    <diemlan2>8.9</diemlan2>
+  </sinhvien>
+  <sinhvien masv="1115" monhoc="Lập trình PHP">
+    <diemlan1>8</diemlan1>
+    <diemlan2>7</diemlan2>
+  </sinhvien>
+  <sinhvien masv="1116" monhoc="Lập trình Python">
+    <diemlan1>10</diemlan1>
+    <diemlan2>10</diemlan2>
+  </sinhvien>
+</bangdiem>

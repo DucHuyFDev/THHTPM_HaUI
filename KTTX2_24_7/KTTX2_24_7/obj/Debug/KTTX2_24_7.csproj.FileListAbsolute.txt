@@ -1,0 +1,11 @@
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\bin\Debug\KTTX2_24_7.exe.config
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\bin\Debug\KTTX2_24_7.exe
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\bin\Debug\KTTX2_24_7.pdb
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.Form1.resources
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.Properties.Resources.resources
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.exe
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.pdb
+F:\THHTPM_HaUI\KTTX2_24_7\KTTX2_24_7\obj\Debug\KTTX2_24_7.exe.config

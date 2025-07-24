@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTTX2_24_7", "KTTX2_24_7\KTTX2_24_7.csproj", "{C8C70385-FF8F-4B46-9013-E24F900B86FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C70385-FF8F-4B46-9013-E24F900B86FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C70385-FF8F-4B46-9013-E24F900B86FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C70385-FF8F-4B46-9013-E24F900B86FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C70385-FF8F-4B46-9013-E24F900B86FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B862FFC7-3B72-4885-9FFC-0B3A440A22AE}
+	EndGlobalSection
+EndGlobal

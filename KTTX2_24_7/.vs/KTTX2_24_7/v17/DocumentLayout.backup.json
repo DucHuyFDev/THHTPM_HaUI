@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\KTTX2_24_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|f:\\thhtpm_haui\\kttx2_24_7\\kttx2_24_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|solutionrelative:kttx2_24_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|f:\\thhtpm_haui\\kttx2_24_7\\kttx2_24_7\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|solutionrelative:kttx2_24_7\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|f:\\thhtpm_haui\\kttx2_24_7\\kttx2_24_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|solutionrelative:kttx2_24_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|f:\\thhtpm_haui\\kttx2_24_7\\kttx2_24_7\\ketquahoctap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C8C70385-FF8F-4B46-9013-E24F900B86FE}|KTTX2_24_7\\KTTX2_24_7.csproj|solutionrelative:kttx2_24_7\\ketquahoctap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\Form1.cs",
+              "RelativeDocumentMoniker": "KTTX2_24_7\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\Form1.cs*",
+              "RelativeToolTip": "KTTX2_24_7\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:41:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ketquahoctap.xml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\ketquahoctap.xml",
+              "RelativeDocumentMoniker": "KTTX2_24_7\\ketquahoctap.xml",
+              "ToolTip": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\ketquahoctap.xml",
+              "RelativeToolTip": "KTTX2_24_7\\ketquahoctap.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-24T02:30:50.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\DataUtil.cs",
+              "RelativeDocumentMoniker": "KTTX2_24_7\\DataUtil.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\DataUtil.cs",
+              "RelativeToolTip": "KTTX2_24_7\\DataUtil.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowF8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:29:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\Form1.cs",
+              "RelativeDocumentMoniker": "KTTX2_24_7\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\KTTX2_24_7\\KTTX2_24_7\\Form1.cs [Design]*",
+              "RelativeToolTip": "KTTX2_24_7\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:26:18.287Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
