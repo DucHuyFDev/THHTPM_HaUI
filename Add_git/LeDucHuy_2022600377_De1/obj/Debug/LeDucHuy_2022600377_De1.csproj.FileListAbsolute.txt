@@ -1,0 +1,10 @@
+D:\LeDucHuy_2022600377_De1\bin\Debug\LeDucHuy_2022600377_De1.exe.config
+D:\LeDucHuy_2022600377_De1\bin\Debug\LeDucHuy_2022600377_De1.exe
+D:\LeDucHuy_2022600377_De1\bin\Debug\LeDucHuy_2022600377_De1.pdb
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.csproj.AssemblyReference.cache
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.Form1.resources
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.Properties.Resources.resources
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.csproj.GenerateResource.cache
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.csproj.CoreCompileInputs.cache
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.exe
+D:\LeDucHuy_2022600377_De1\obj\Debug\LeDucHuy_2022600377_De1.pdb
