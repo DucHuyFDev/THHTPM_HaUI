@@ -8,6 +8,9 @@
 		<head>
 			<title>Document</title>
 			<style>
+				table{
+				border-collapse: collapse;
+				}
 				.container{
 					width: 1200px;
 					margin: 0 auto;
@@ -20,7 +23,7 @@
 					font-size: 20px;
 				}
 				.benh_nhan_in4 th{
-					min-width: 150px;
+					min-width: 250px;
 				}
 
 			</style>
@@ -43,7 +46,7 @@
 					Khoa: <xsl:value-of select="bv:TenKhoa"/>
 				</td>
 				<td>
-					Phòng:<xsl:value-of select="bv:Phong"/>
+					Phòng: <xsl:value-of select="bv:Phong"/>
 				</td>
 			</tr>
 		</table>

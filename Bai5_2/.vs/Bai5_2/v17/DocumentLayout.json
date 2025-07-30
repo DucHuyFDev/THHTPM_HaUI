@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|f:\\thhtpm_haui\\bai5_2\\bai5_2\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|F:\\THHTPM_HaUI\\Bai5_2\\bai5_2\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|f:\\thhtpm_haui\\bai5_2\\bai5_2\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|F:\\THHTPM_HaUI\\Bai5_2\\bai5_2\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Bai5_2\\BenhNhan.xslt",
               "ToolTip": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xslt",
               "RelativeToolTip": "Bai5_2\\BenhNhan.xslt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
               "WhenOpened": "2025-07-05T04:37:40.592Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Bai5_2\\BenhNhan.xml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-07-05T04:34:07.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T04:34:07.656Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Bai5_2\\BenhNhan.xsd",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-07-05T02:36:52.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T02:36:52.699Z"
             }
           ]
         }

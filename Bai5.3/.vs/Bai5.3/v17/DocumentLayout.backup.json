@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|f:\\thhtpm_haui\\bai5.3\\bai5.3\\ketqua.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|F:\\THHTPM_HaUI\\Bai5.3\\bai5.3\\ketqua.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|f:\\thhtpm_haui\\bai5.3\\bai5.3\\ketqua.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|F:\\THHTPM_HaUI\\Bai5.3\\bai5.3\\ketqua.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{35C2396F-2BDE-48E7-8242-9887C77C014D}|Bai5.3\\Bai5.3.csproj|solutionrelative:bai5.3\\ketqua.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Bai5.3\\KetQua.xslt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
-              "WhenOpened": "2025-07-05T06:43:39.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T06:43:39.692Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Bai5.3\\KetQua.xml",
               "ToolTip": "F:\\THHTPM_HaUI\\Bai5.3\\Bai5.3\\KetQua.xml",
               "RelativeToolTip": "Bai5.3\\KetQua.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-07-05T06:41:56.112Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Bai5.3\\KetQua.xsd",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-07-05T06:34:19.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T06:34:19.369Z"
             }
           ]
         }

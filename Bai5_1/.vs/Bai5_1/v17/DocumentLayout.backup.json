@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3767A478-77C3-403E-9858-C6B33A31D7D3}|Bai5_1\\Bai5_1.csproj|solutionrelative:bai5_1\\sinhvien.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3767A478-77C3-403E-9858-C6B33A31D7D3}|Bai5_1\\Bai5_1.csproj|f:\\thhtpm_haui\\bai5_1\\bai5_1\\lophoc.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3767A478-77C3-403E-9858-C6B33A31D7D3}|Bai5_1\\Bai5_1.csproj|F:\\THHTPM_HaUI\\Bai5_1\\bai5_1\\lophoc.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3767A478-77C3-403E-9858-C6B33A31D7D3}|Bai5_1\\Bai5_1.csproj|solutionrelative:bai5_1\\lophoc.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Bai5_1\\LopHoc.xslt",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
-              "WhenOpened": "2025-07-05T01:01:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T01:01:08.539Z"
             },
             {
               "$type": "Document",

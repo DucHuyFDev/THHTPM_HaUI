@@ -81,7 +81,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BenhNhan.xml" />
-    <Content Include="BenhNhan.xslt" />
+    <Content Include="BenhNhan.xslt">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

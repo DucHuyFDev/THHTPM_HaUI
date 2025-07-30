@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai5_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|f:\\thhtpm_haui\\bai5_2\\bai5_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|f:\\thhtpm_haui\\bai5_2\\bai5_2\\benhnhan.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|F:\\THHTPM_HaUI\\Bai5_2\\bai5_2\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|F:\\THHTPM_HaUI\\Bai5_2\\bai5_2\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A4F94ED-998E-4688-8CA6-A38FDE1495BB}|Bai5_2\\Bai5_2.csproj|solutionrelative:bai5_2\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai5_2\\Form1.cs",
-              "ToolTip": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\Form1.cs [Design]",
-              "RelativeToolTip": "Bai5_2\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T02:27:00.022Z",
-              "EditorCaption": " [Design]"
+              "Title": "BenhNhan.xslt",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xslt",
+              "RelativeDocumentMoniker": "Bai5_2\\BenhNhan.xslt",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xslt",
+              "RelativeToolTip": "Bai5_2\\BenhNhan.xslt",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-07-05T04:37:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BenhNhan.xml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xml",
+              "RelativeDocumentMoniker": "Bai5_2\\BenhNhan.xml",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xml",
+              "RelativeToolTip": "Bai5_2\\BenhNhan.xml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-05T04:34:07.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenhNhan.xsd",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xsd",
+              "RelativeDocumentMoniker": "Bai5_2\\BenhNhan.xsd",
+              "ToolTip": "F:\\THHTPM_HaUI\\Bai5_2\\Bai5_2\\BenhNhan.xsd",
+              "RelativeToolTip": "Bai5_2\\BenhNhan.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-07-05T02:36:52.699Z"
             }
           ]
         }

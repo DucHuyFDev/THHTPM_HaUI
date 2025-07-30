@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThuVien>
+  <Sach masach="s01">
+    <TenSach>Tich hợp hệ thống phần mềm</TenSach>
+    <SoTrang>140</SoTrang>
+    <TacGia>
+      <HoTen>Hương Lan</HoTen>
+      <DiaChi>Hà Nội</DiaChi>
+    </TacGia>
+  </Sach>
+  <Sach masach="s04">
+    <TenSach>Nguyên lý kế toán</TenSach>
+    <SoTrang>195</SoTrang>
+    <TacGia>
+      <HoTen>Hà Duyên Vũ</HoTen>
+      <DiaChi>TPHCM</DiaChi>
+    </TacGia>
+  </Sach>
+  <Sach masach="s05">
+    <TenSach>Ngôn ngữ lập trình khoa học</TenSach>
+    <SoTrang>170</SoTrang>
+    <TacGia>
+      <HoTen>Nguyễn Mạnh Cường</HoTen>
+      <DiaChi>Bắc Ninh</DiaChi>
+    </TacGia>
+  </Sach>
+  <Sach masach="s03">
+    <TenSach>uia</TenSach>
+    <SoTrang>180</SoTrang>
+    <TacGia>
+      <HoTen>uia</HoTen>
+      <DiaChi>uia</DiaChi>
+    </TacGia>
+  </Sach>
+</ThuVien>

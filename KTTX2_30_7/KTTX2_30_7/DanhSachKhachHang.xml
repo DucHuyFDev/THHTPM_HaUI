@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachKhachHang>
+  <KhachHang makh="1111" chinhanh="Hà Nội">
+    <HoTen>Vũ Minh An</HoTen>
+    <DiaChi>Chương Mỹ, Hà Nội</DiaChi>
+    <SoDT>0123456789</SoDT>
+  </KhachHang>
+</DanhSachKhachHang>

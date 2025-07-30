@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Bai8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|F:\\THHTPM_HaUI\\Bai8\\bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|f:\\thhtpm_haui\\bai8\\bai8\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|F:\\THHTPM_HaUI\\Bai8\\bai8\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A40961C-D1D9-4445-9A6E-8303ACA4BA38}|Bai8\\Bai8.csproj|solutionrelative:bai8\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,7 +67,7 @@
               "RelativeDocumentMoniker": "Bai8\\Form1.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs",
               "RelativeToolTip": "Bai8\\Form1.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowCwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T18:18:46.098Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Bai8\\DataUtil.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAYwD4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T01:23:10.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T01:23:10.404Z"
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "ToolTip": "F:\\THHTPM_HaUI\\Bai8\\Bai8\\Form1.cs [Design]",
               "RelativeToolTip": "Bai8\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T18:13:38.102Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-18T18:13:38.102Z"
             }
           ]
         }
