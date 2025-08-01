@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lophoc>
+  <sinhvien masv="sv02">
+    <hoten>Lê Đức Huy</hoten>
+    <diachi>Hà Nội</diachi>
+    <tuoi>19</tuoi>
+    <monhoc tenmon="Tích hợp">
+      <diem>9</diem>
+    </monhoc>
+  </sinhvien>
+</lophoc>

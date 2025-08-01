@@ -1,0 +1,11 @@
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\bin\Debug\KTTX2_1_8.exe.config
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\bin\Debug\KTTX2_1_8.exe
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\bin\Debug\KTTX2_1_8.pdb
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.Form1.resources
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.Properties.Resources.resources
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.exe
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.pdb
+F:\THHTPM_HaUI\KTTX2_1_8\KTTX2_1_8\obj\Debug\KTTX2_1_8.exe.config
