@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|solutionrelative:threstful_2_8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|f:\\thhtpm_haui\\threstful_2_8\\threstful_2_8\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|F:\\THHTPM_HaUI\\THRestful_2_8\\threstful_2_8\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|solutionrelative:threstful_2_8\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|f:\\thhtpm_haui\\threstful_2_8\\threstful_2_8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|F:\\THHTPM_HaUI\\THRestful_2_8\\threstful_2_8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|solutionrelative:threstful_2_8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|f:\\thhtpm_haui\\threstful_2_8\\threstful_2_8\\shopdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "AbsoluteMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|F:\\THHTPM_HaUI\\THRestful_2_8\\threstful_2_8\\shopdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
       "RelativeMoniker": "D:0:0:{B7324CD8-465F-47B9-A046-C293548E5461}|THRestful_2_8\\THRestful_2_8.csproj|solutionrelative:threstful_2_8\\shopdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "THRestful_2_8\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-02T05:44:06.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T05:44:06.132Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "THRestful_2_8\\Controllers\\ProductController.cs",
               "ToolTip": "F:\\THHTPM_HaUI\\THRestful_2_8\\THRestful_2_8\\Controllers\\ProductController.cs",
               "RelativeToolTip": "THRestful_2_8\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T05:43:54.136Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "THRestful_2_8\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:42:21.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T05:42:21.701Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "ToolTip": "F:\\THHTPM_HaUI\\THRestful_2_8\\THRestful_2_8\\ShopDB.dbml",
               "RelativeToolTip": "THRestful_2_8\\ShopDB.dbml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-08-02T05:40:39.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T05:40:39.69Z"
             }
           ]
         }
