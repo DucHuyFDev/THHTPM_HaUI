@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Restful1_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|f:\\thhtpm_haui\\restful1_8\\restful1_8\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|solutionrelative:restful1_8\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|f:\\thhtpm_haui\\restful1_8\\restful1_8\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|solutionrelative:restful1_8\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|f:\\thhtpm_haui\\restful1_8\\restful1_8\\donvidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|solutionrelative:restful1_8\\donvidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|f:\\thhtpm_haui\\restful1_8\\restful1_8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|solutionrelative:restful1_8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|f:\\thhtpm_haui\\restful1_8\\restful1_8\\qlluong.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{EBE26240-67A0-4FD1-BA4B-5BC7DD05AF8D}|Restful1_8\\Restful1_8.csproj|solutionrelative:restful1_8\\qlluong.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "Restful1_8\\Controllers\\NhanVienController.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "Restful1_8\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:10:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "Restful1_8\\NhanVienDTO.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\NhanVienDTO.cs",
+              "RelativeToolTip": "Restful1_8\\NhanVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:08:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonViDTO.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\DonViDTO.cs",
+              "RelativeDocumentMoniker": "Restful1_8\\DonViDTO.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\DonViDTO.cs",
+              "RelativeToolTip": "Restful1_8\\DonViDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:10:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\Web.config",
+              "RelativeDocumentMoniker": "Restful1_8\\Web.config",
+              "ToolTip": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\Web.config",
+              "RelativeToolTip": "Restful1_8\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T12:08:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLLuong.dbml",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\QLLuong.dbml",
+              "RelativeDocumentMoniker": "Restful1_8\\QLLuong.dbml",
+              "ToolTip": "F:\\THHTPM_HaUI\\Restful1_8\\Restful1_8\\QLLuong.dbml",
+              "RelativeToolTip": "Restful1_8\\QLLuong.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-08-01T12:07:26.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
