@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_KhoaHocModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="HocVien">
+    <Key>
+      <PropertyRef Name="MaHocVien" />
+    </Key>
+    <Property Name="MaHocVien" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenHocVien" Type="nvarchar" MaxLength="100" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="MaKhoaHoc" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="KhoaHoc">
+    <Key>
+      <PropertyRef Name="MaKhoaHoc" />
+    </Key>
+    <Property Name="MaKhoaHoc" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenKhoaHoc" Type="nvarchar" MaxLength="100" />
+    <Property Name="ThoiLuong" Type="int" />
+    <Property Name="HocPhi" Type="money" />
+  </EntityType>
+  <EntityContainer Name="QL_KhoaHocModelStoreContainer">
+    <EntitySet Name="HocVien" EntityType="Self.HocVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KhoaHoc" EntityType="Self.KhoaHoc" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

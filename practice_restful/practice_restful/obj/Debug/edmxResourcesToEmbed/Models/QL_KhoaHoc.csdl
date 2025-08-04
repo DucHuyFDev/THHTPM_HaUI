@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_KhoaHocModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="HocVien">
+    <Key>
+      <PropertyRef Name="MaHocVien" />
+    </Key>
+    <Property Name="MaHocVien" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TenHocVien" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="MaKhoaHoc" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="KhoaHoc">
+    <Key>
+      <PropertyRef Name="MaKhoaHoc" />
+    </Key>
+    <Property Name="MaKhoaHoc" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TenKhoaHoc" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ThoiLuong" Type="Int32" />
+    <Property Name="HocPhi" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
+  <EntityContainer Name="QL_KhoaHocEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="HocViens" EntityType="Self.HocVien" />
+    <EntitySet Name="KhoaHocs" EntityType="Self.KhoaHoc" />
+  </EntityContainer>
+</Schema>
