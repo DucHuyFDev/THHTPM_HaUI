@@ -1,0 +1,10 @@
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\bin\Debug\QLBanHang_10_8_interface.exe.config
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\bin\Debug\QLBanHang_10_8_interface.exe
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\bin\Debug\QLBanHang_10_8_interface.pdb
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.Form1.resources
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.Properties.Resources.resources
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.exe
+F:\THHTPM_HaUI\QLBanHang_10_8_interface\QLBanHang_10_8_interface\obj\Debug\QLBanHang_10_8_interface.pdb

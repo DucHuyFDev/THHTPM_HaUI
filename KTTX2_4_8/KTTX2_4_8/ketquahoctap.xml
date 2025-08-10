@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bangdiem>
+  <sinhvien masv="3333" monhoc="Lập trình PHP">
+    <diemlan1>0</diemlan1>
+    <diemlan2>10</diemlan2>
+  </sinhvien>
+  <sinhvien masv="4444" monhoc="Lập trình Python">
+    <diemlan1>3</diemlan1>
+    <diemlan2>10</diemlan2>
+  </sinhvien>
+</bangdiem>

@@ -1,0 +1,14 @@
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\bin\Debug\QLHocSinh_10_8_interface.exe.config
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\bin\Debug\QLHocSinh_10_8_interface.exe
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\bin\Debug\QLHocSinh_10_8_interface.pdb
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\bin\Debug\Newtonsoft.Json.dll
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\bin\Debug\Newtonsoft.Json.xml
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.Form1.resources
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.Properties.Resources.resources
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSin.AA3DCDC3.Up2Date
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.exe
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.pdb
+F:\THHTPM_HaUI\QLHocSinh_10_8_interface\QLHocSinh_10_8_interface\obj\Debug\QLHocSinh_10_8_interface.exe.config
