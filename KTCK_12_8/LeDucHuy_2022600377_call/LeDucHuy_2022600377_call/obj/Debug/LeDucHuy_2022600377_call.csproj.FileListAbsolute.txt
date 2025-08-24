@@ -1,0 +1,14 @@
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\bin\Debug\LeDucHuy_2022600377_call.exe.config
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\bin\Debug\LeDucHuy_2022600377_call.exe
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\bin\Debug\LeDucHuy_2022600377_call.pdb
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\bin\Debug\Newtonsoft.Json.dll
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\bin\Debug\Newtonsoft.Json.xml
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.Form1.resources
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.Properties.Resources.resources
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy.ED45317A.Up2Date
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.exe
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.pdb
+F:\THHTPM_HaUI\KTCK_12_8\LeDucHuy_2022600377_call\LeDucHuy_2022600377_call\obj\Debug\LeDucHuy_2022600377_call.exe.config

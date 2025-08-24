@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|f:\\thhtpm_haui\\th_18_8\\webapi\\webapi\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|f:\\thhtpm_haui\\th_18_8\\webapi\\webapi\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|f:\\thhtpm_haui\\th_18_8\\webapi\\webapi\\models\\qlsp.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2D8A7C18-283C-42E3-A527-4C7F579555FF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\qlsp.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamDTO.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\SanPhamDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\SanPhamDTO.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\SanPhamDTO.cs",
+              "RelativeToolTip": "WebAPI\\SanPhamDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:23:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SanPhamController.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:14:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLSP.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\Models\\QLSP.edmx",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\QLSP.edmx",
+              "ToolTip": "F:\\THHTPM_HaUI\\TH_18_8\\WebAPI\\WebAPI\\Models\\QLSP.edmx [Diagram1]",
+              "RelativeToolTip": "WebAPI\\Models\\QLSP.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-17T16:12:38.661Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

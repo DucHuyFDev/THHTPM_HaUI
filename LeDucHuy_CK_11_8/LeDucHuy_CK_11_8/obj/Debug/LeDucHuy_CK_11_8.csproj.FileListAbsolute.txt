@@ -1,0 +1,14 @@
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\bin\Debug\LeDucHuy_CK_11_8.exe.config
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\bin\Debug\LeDucHuy_CK_11_8.exe
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\bin\Debug\LeDucHuy_CK_11_8.pdb
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\bin\Debug\Newtonsoft.Json.dll
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\bin\Debug\Newtonsoft.Json.xml
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.Form1.resources
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.Properties.Resources.resources
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy.4CD0AA7E.Up2Date
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.exe
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.pdb
+F:\THHTPM_HaUI\LeDucHuy_CK_11_8\LeDucHuy_CK_11_8\obj\Debug\LeDucHuy_CK_11_8.exe.config
