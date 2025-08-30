@@ -1,0 +1,14 @@
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\bin\Debug\Interface.exe.config
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\bin\Debug\Interface.exe
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\bin\Debug\Interface.pdb
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.Form1.resources
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.exe
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.pdb
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.exe.config
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\bin\Debug\Newtonsoft.Json.dll
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\bin\Debug\Newtonsoft.Json.xml
+F:\THHTPM_HaUI\test_time_api\Interface\Interface\obj\Debug\Interface.csproj.Up2Date

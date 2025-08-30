@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|f:\\thhtpm_haui\\test_ck_tg\\interface\\interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|solutionrelative:interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|f:\\thhtpm_haui\\test_ck_tg\\interface\\interface\\thongtinthoitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|solutionrelative:interface\\thongtinthoitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|f:\\thhtpm_haui\\test_ck_tg\\interface\\interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45AFC192-D1EE-4F6A-9D41-204FCBC58EA6}|Interface\\Interface.csproj|solutionrelative:interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongTinThoiTiet.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\ThongTinThoiTiet.cs",
+              "RelativeDocumentMoniker": "Interface\\ThongTinThoiTiet.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\ThongTinThoiTiet.cs",
+              "RelativeToolTip": "Interface\\ThongTinThoiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:59:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\Form1.cs",
+              "RelativeToolTip": "Interface\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:54:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface\\Form1.cs",
+              "ToolTip": "F:\\THHTPM_HaUI\\Test_CK_TG\\Interface\\Interface\\Form1.cs [Design]",
+              "RelativeToolTip": "Interface\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:48:31.361Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
